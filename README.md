@@ -12,3 +12,8 @@ An example of the time series analysis conducted in this work is provided as a n
 ## Models
 
 If you wish to utilize our act classifier models, please see: https://huggingface.co/CrisisNarratives
+
+## Citation
+
+If you use any of the resources described or provided here, please cite:
+(Coming up)
