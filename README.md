@@ -25,4 +25,4 @@ If you wish to utilize our act classifier models, please see: https://huggingfac
 
 If you use any of the resources described or provided here, please cite:
 
-Paakki, H. & Ghorbanpour, F. 2025: _(forthcoming)_ Computational Analysis of Communicative Acts for Understanding Crisis News Comment Discourses. Social Networks Analysis and Mining, 16th International Conference, ASONAM 2024, Rende, Italy, September 2–5, 2024, Proceedings.
+Paakki, H., Ghorbanpour, F. (2025). Computational Analysis of Communicative Acts for Understanding Crisis News Comment Discourses. In: Aiello, L.M., Chakraborty, T., Gaito, S. (eds) Social Networks Analysis and Mining. ASONAM 2024. Lecture Notes in Computer Science, vol 15212. Springer, Cham. https://doi.org/10.1007/978-3-031-78538-2_20
